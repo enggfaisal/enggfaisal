@@ -118,6 +118,111 @@ In my role as Community Liaison for the Space Coast Technology Council, I was de
 ♦ Managed communications and marketing efforts for the council, increasing visibility and engagement within the tech community and beyond.<br>
 ♦ Provided support and resources to technology startups and entrepreneurs, aiding in their development and success in the competitive marketplace.<br>
 
+<b>Network Technician  </b> </p> 
+📌Rockwell Collins S&A<br>
+📌2008 - 2011 · 3 yrs<br>
+During my tenure as a Network Technician at Rockwell Collins S&A, I specialized in supporting mission-critical military operations through expert management of network infrastructure and communications systems.<br>
+♦ Played a key role in maintaining and troubleshooting network infrastructure for Army, NavAir, and Stricom, ensuring reliable communication and data transmission.<br>
+♦ Expertly installed, terminated, and maintained a variety of cable types, guaranteeing uninterrupted service for all clients.<br>
+♦ Ensured the proper installation and functionality of computers, communications cabling, and equipment, contributing to optimal operational efficiency.<br>
+♦ Resolved complex network issues in collaboration with end-users, maintaining a high standard of professionalism and fostering positive relationships.<br>
+♦ Conducted regular network performance tests and maintenance activities to prevent potential service disruptions.<br>
+♦ Collaborated with cross-functional teams to implement network upgrades and enhancements, improving system reliability and performance.<br>
+♦ Developed and maintained documentation on network configurations and procedures, enhancing the team's ability to manage and troubleshoot the network effectively.<br>
+♦ Provided technical training and support to users, empowering them to utilize network resources effectively and resolve minor issues independently.<br>
+
+
+
+<b>Account Manager </b> </p> 
+📌LaborMAX Staffing<br>
+📌2008 - 2008 · Less than a year<br>
+In my role as Account Manager at LaborMax Staffing, I was instrumental in developing client relationships and managing staffing solutions that met the diverse needs of businesses across various industries.<br>
+♦ Developed and nurtured strong relationships with key clients, understanding their staffing needs and delivering customized solutions.<br>
+♦ Managed the full recruitment cycle for clients, ensuring the placement of qualified candidates in roles that matched their skills and experience.<br>
+♦ Conducted regular client consultations to assess satisfaction and identify opportunities for service improvement and expansion.<br>
+♦ Collaborated with the recruitment team to streamline the candidate selection process, enhancing efficiency and client satisfaction.<br>
+♦ Implemented strategies to expand the client base through targeted marketing and networking efforts, contributing to company growth.<br>
+♦ Negotiated contracts with clients, securing favorable terms and building long-term partnerships.<br>
+♦ Monitored and analyzed market trends to identify new opportunities for staffing services and competitive positioning.<br>
+♦ Provided exceptional customer service, resolving issues promptly and maintaining a high level of client retention.<br>
+
+<b>Program Manager  </b> </p> 
+📌AIW<br>
+📌2007 - 2007 · Less than a year<br>
+As Program Manager at AIW, I participated in various B2B development projects, driving significant revenue growth and ensuring the delivery of high-quality solutions to meet the complex needs of our clients.<br>
+♦ Drove strategic development and execution, significantly enhancing company revenue and market presence.<br>
+♦ Initiated cross-functional teams to achieve project milestones and KPIs, optimizing performance through effective leadership and goal setting.<br>
+♦ Managed comprehensive delivery estimates and invoicing high value projects, ensuring both accuracy and efficiency.<br>
+♦ Proactively identified and pursued new business opportunities, engaging with state and federal entities to expand the company's client portfolio.<br>
+♦ Implemented rigorous project management methodologies to streamline processes and improve project delivery timelines.<br>
+♦ Fostered a collaborative team environment, encouraging innovation and problem-solving to overcome project challenges.<br>
+♦ Conducted thorough market analysis and competitor research to inform strategic decisions and identify areas for competitive advantage.<br>
+♦ Established and maintained strong relationships with key stakeholders, ensuring alignment of project objectives with client expectations and business goals.<br>
+
+
+<b>Program Manager  </b> </p> 
+📌JHT-OSD<br>
+📌2004 - 2007 · 3 yrs<br>
+At JHT-OSD, my role as Program Manager involved overseeing critical projects, ensuring their success through meticulous planning and coordination with my Sr. Program Manager and the customer.<br>
+♦ Co-led the planning, execution, and delivery of key projects, achieving all objectives within budget and schedule constraints.<br>
+♦ Coordinated with internal and external teams to ensure the seamless integration and functionality of business systems for high-profile clients.<br>
+♦ Played a pivotal role in troubleshooting and resolving various issues in collaboration with multiple teams, minimizing downtime and maintaining operational continuity.<br>
+♦ Implemented regular audits of system configurations, proactively identifying and addressing areas for improvement to enhance system reliability and performance.<br>
+♦ Managed project budgets and resources, optimizing allocation to meet project demands while maximizing cost efficiency.<br>
+♦ Developed and maintained comprehensive project documentation, ensuring clear communication and alignment among project stakeholders.<br>
+♦ Facilitated team meetings and training sessions to ensure team members were well-informed and equipped to meet project requirements.<br>
+♦ Employed strategic planning and risk management techniques to anticipate challenges and adapt project plans as necessary.<br>
+
+<b>Financial Analyst </b> </p> 
+📌JHT<br>
+📌2003 - 2004 · 1 yr<br>
+In my capacity as a Financial Analyst at JHT, I contributed to the company's financial health through detailed analysis and strategic planning.<br>
+♦ Conducted in-depth financial analysis to support strategic decision-making and improve the company's financial performance.<br>
+♦ Collaborated closely with project teams to monitor budgets and expenditures, ensuring financial objectives were met.<br>
+♦ Played a key role in the preparation and control of financial documents, software, and equipment, streamlining processes and reducing errors.<br>
+♦ Worked alongside IT and operational teams to ensure the smooth functionality of business systems, contributing to overall organizational efficiency.<br>
+♦ Implemented regular financial audits, identifying discrepancies and opportunities for cost savings and efficiency improvements.<br>
+♦ Provided financial forecasting and reporting to senior management, enabling informed decision-making and strategic planning.<br>
+♦ Advised on financial best practices and strategies to optimize resource allocation and enhance profitability.<br>
+♦ Developed financial models to predict future financial scenarios and guide the company's long-term financial planning efforts.<br>
+
+<b>Configuration Management </b> </p> 
+📌Morgan Research<br>
+📌2002 - 2003 · 1 yr<br>
+At Morgan Research, my role centered on leveraging research methodologies to contribute to groundbreaking projects, supporting the company's commitment to innovation and excellence in research.<br>
+♦ Conducted comprehensive research studies, contributing valuable insights and data to support project objectives and outcomes.<br>
+♦ Collaborated with a team of researchers to design and implement research methodologies tailored to specific project needs.<br>
+♦ Analyzed and interpreted data sets, providing detailed reports that informed decision-making and strategic planning.<br>
+♦ Managed research databases, ensuring the integrity and confidentiality of data throughout the research process.<br>
+♦ Engaged with stakeholders to communicate research findings, translating complex data into actionable insights.<br>
+♦ Contributed to the development of research proposals, securing funding and support for future projects.<br>
+♦ Maintained up-to-date knowledge of industry trends and advancements, ensuring research methodologies remained cutting-edge.<br>
+♦ Fostered a collaborative research environment, encouraging the sharing of ideas and expertise among team members.<br>
+
+
+
+<b>Network Support Specialist </b> </p> 
+📌Advanced Systems Technology<br>
+📌2000 - 2002 · 2 yrs<br>
+During my tenure at Advanced Systems Technology, I focused on the development and implementation of advanced technological solutions, driving innovation and efficiency across operations.<br>
+♦ Led the development of technology solutions that addressed complex business challenges, enhancing operational efficiency and productivity.<br>
+♦ Coordinated with cross-functional teams to ensure the seamless integration of new technologies into existing systems.<br>
+♦ Managed technology projects from conception through to implementation, ensuring deliverables met all quality, time, and budget requirements.<br>
+♦ Conducted thorough testing and quality assurance processes to ensure the reliability and performance of technological solutions.<br>
+♦ Provided technical support and training to users, ensuring a smooth transition to new systems and technologies.<br>
+♦ Kept abreast of technological advancements and industry trends, applying this knowledge to drive continuous improvement and innovation.<br>
+♦ Collaborated with stakeholders to understand their needs and develop customized solutions that delivered measurable benefits.<br>
+♦ Documented project processes and outcomes, facilitating knowledge sharing and supporting future technology initiatives.<br>
+
+
+# Licenses & certifications
+<a href="https://www.coursera.org/account/accomplishments/verify/CAXN7JPXBFJ8)">Prompt Engineering for ChatGPT</a>  || Vanderbilt University
+<p>🥇Credential ID CAXN7JPXBFJ8 | Issued Jan 2024 </p>
+
+<a href="https://www.ce.ucf.edu/ucf/course/course.aspx?C=79&pc=25&mc=0&sc=0">Integrative Behavioral Health, Allegra learning solutions</a> 
+<p> University of Central Florida- America Nurses Credentialing Center | Issued Oct 2023 </p>
+
+
 
 
 </p>
