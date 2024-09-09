@@ -232,10 +232,43 @@ During my tenure at Advanced Systems Technology, I focused on the development an
 <p>🥇LinkedIn | Issued Mar 2023 </p>
 
 ## <a href="https://www.linkedin.com/learning/certificates/3f803e6230cb7cc6100ada81b1c7de133fa4e013330ec4cb835d71ac7f26d8b0">Soft Skills for Sales Professionals</a> 
-<p>🥇LinkedIn |Issued Jan 2023 </p>
+<p>🥇LinkedIn | Issued Jan 2023 </p>
 
 ## <a href="https://media.licdn.com/dms/image/v2/D562DAQGNhwQvvdUEog/profile-treasury-image-shrink_1920_1920/profile-treasury-image-shrink_1920_1920/0/1723228704347?e=1726506000&v=beta&t=bQcbVfEhI0Imb0lJPwgIpKU6XD4PlPBxOFz8KWvyQJI">Microsoft Certified Professional</a> 
-<p>🥇Microsoft |Issued Nov 2001 </p>
+<p>🥇Microsoft | Issued Nov 2001 </p>
+
+
+
+
+# Social links
+
+<p align="center">
+<a href="https://www.linkedin.com/in/clint-hill/"><img src="https://img.shields.io/badge/-clint-hill-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/clint-hill/"><img src="https://img.shields.io/badge/-clint-hill.gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+
+
+| Stats                                                                                             | Streak                                                                                                                                                                                | Languages                                                                                                      
+|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cognizanteyez&theme=gruvbox) | [![GitHub Streak](https://streak-stats.demolab.com/?user=cognizanteyez&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cognizanteyez&theme=gruvbox) |
+
+
+
+<!--  Troffy -->
+## 🥇 Github Trophy
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cognizanteyez" alt="cognizanteyez" /></a> </p>
+
+<!--  Github Status -->
+## 🎯 Github Status
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cognizanteyez&show_icons=true&locale=en&layout=compact" alt="cognizanteyez" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cognizanteyez&show_icons=true&locale=en" alt="cognizanteyez" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cognizanteyez&" alt="cognizanteyez" /></p>
+
+
+## 🐛Github Magic Game
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 
 
