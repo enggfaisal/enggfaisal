@@ -216,11 +216,26 @@ During my tenure at Advanced Systems Technology, I focused on the development an
 
 
 # Licenses & certifications
-<a href="https://www.coursera.org/account/accomplishments/verify/CAXN7JPXBFJ8)">Prompt Engineering for ChatGPT</a>  || Vanderbilt University
+## <a href="https://www.coursera.org/account/accomplishments/verify/CAXN7JPXBFJ8)">Prompt Engineering for ChatGPT</a>  || Vanderbilt University
 <p>🥇Credential ID CAXN7JPXBFJ8 | Issued Jan 2024 </p>
 
-<a href="https://www.ce.ucf.edu/ucf/course/course.aspx?C=79&pc=25&mc=0&sc=0">Integrative Behavioral Health, Allegra learning solutions</a> 
-<p> University of Central Florida- America Nurses Credentialing Center | Issued Oct 2023 </p>
+## <a href="https://www.ce.ucf.edu/ucf/course/course.aspx?C=79&pc=25&mc=0&sc=0">Integrative Behavioral Health, Allegra learning solutions</a> 
+<p>🥇University of Central Florida- America Nurses Credentialing Center | Issued Oct 2023 </p>
+
+## <a href="https://www.linkedin.com/in/clint-hill/details/certifications/1708450404619/single-media-viewer/?profileId=ACoAAEJmkBwBwfZMOgs8Zs6wRALH8-rLNEnmeEw">Advanced national caregiver certification as a home health aide</a> 
+<p>🥇AMERICAN CAREGIVER ASSOCIATION | Issued May 2023 </p>
+
+## <a href="https://www.linkedin.com/learning/certificates/434e3484f9acf30bedeab40f8597f51dc79d28781a749fc7189016c013b6c4f9">Customer Experience (CX) Strategy: How to Design an Organizational Approach</a> 
+<p>🥇LinkedIn | Issued Apr 2023 </p>
+
+## <a href="https://www.linkedin.com/learning/certificates/3da92a61d1e76846cd1dc7e7c2dc1d94f9cdca021cba0e039ad3f03a246aaa10">Customer Service Foundations (2020)</a> 
+<p>🥇LinkedIn | Issued Mar 2023 </p>
+
+## <a href="https://www.linkedin.com/learning/certificates/3f803e6230cb7cc6100ada81b1c7de133fa4e013330ec4cb835d71ac7f26d8b0">Soft Skills for Sales Professionals</a> 
+<p>🥇LinkedIn |Issued Jan 2023 </p>
+
+## <a href="https://media.licdn.com/dms/image/v2/D562DAQGNhwQvvdUEog/profile-treasury-image-shrink_1920_1920/profile-treasury-image-shrink_1920_1920/0/1723228704347?e=1726506000&v=beta&t=bQcbVfEhI0Imb0lJPwgIpKU6XD4PlPBxOFz8KWvyQJI">Microsoft Certified Professional</a> 
+<p>🥇Microsoft |Issued Nov 2001 </p>
 
 
 
